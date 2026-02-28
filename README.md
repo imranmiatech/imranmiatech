@@ -1,117 +1,103 @@
-# 🚀 Md Imran Mia
+# 🚀 MD. IMRAN MIA
 
-💻 Full Stack Developer | ⚛️ React & Redux Toolkit | 🎨 Tailwind CSS | 🗄️ MongoDB & PostgreSQL  
+💻 Full Stack & Frontend Developer | ⚛️ React & Redux Toolkit | 🗄️ MongoDB & PostgreSQL  
 
----
-
-## 👋 About Me
-
-Hi! I'm **Md Imran Mia**, a passionate Full Stack Developer from Bangladesh 🇧🇩  
-
-I build **modern, scalable, user-friendly web apps** with React, Node.js, Redux Toolkit, and databases like MongoDB & PostgreSQL.  
-Currently focusing on **full-stack dashboards, advanced Redux patterns, and real-time apps**.
+📍 Bonani-13, Gulshan, Dhaka-1212  
+📞 +880-01943747529 | 📧 imranmiatech@gmall.com  
+🌐 [Portfolio](#) | [GitHub](https://github.com/imranmiatech) | [LinkedIn](https://www.linkedin.com/in/imranmiatech/)  
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Objective
 
-### ⚛️ Frontend
-- React.js  
-- Redux Toolkit  
-- Tailwind CSS  
-- JavaScript (ES6+)  
-- TypeScript  
-- REST API Integration  
+Enthusiastic web developer dedicated to learning and applying modern web development technologies to deliver high-quality solutions.
 
-### ⚡ Backend
-- Node.js & Express.js  
-- MongoDB  
-- PostgreSQL + Prisma ORM  
-- Postman (API Testing)  
+---
 
-### 🧰 Tools & Others
+## 🎓 Education
+
+**Institute of Science Trade and Technology (ISTT) affiliated to NU**  
+B.Sc. IN CSE (Final Semester Ongoing) | GPA: 3.4/4.0  
+Currently pursuing B.Sc. with a focus on software and web development.
+
+---
+
+## 💼 Work Experience
+
+**Frontend Developer**  
+**Softvence IT Ltd** | 17/05/2025 – Present  
+Modana Tower, Mohakali, Dhaka  
+
+- Worked with Softvence, gaining hands-on experience in web development and real-world project collaboration.
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- JavaScript, TypeScript, Python (Basics)  
+
+### Web Development
+- React.js, Next.js, Redux Toolkit  
+- Framer Motion, GSAP (basic)  
+- Node.js, Express.js  
+- MongoDB, PostgreSQL, Prisma  
+
+### Database Management
+- MongoDB, SQL, MySQL  
+
+### Other Skills
+- Problem-Solving and Analytical Skills  
+- Strong Communication and Collaboration Abilities  
+- Ability to Learn and Adapt Quickly  
+
+---
+
+## 🧰 Other Technologies
+- Linux  
+- Docker (Basics)  
 - Git & GitHub  
-- pnpm / npm  
-- WebSocket  
-- Vite  
-- VS Code  
+- AWS (Basics)  
 
 ---
 
-## 📊 Skills & Badges
+## 📂 Projects
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+### [Krisikunjo (E-commerce)](https://krisikunjo.shop)  
+01–09–2025 to 07–02–2026  
+Built a fully functional online store with modern web technologies and user-friendly interface.  
+
+### [Klawlara (Multivendor Furniture E-commerce)](https://klwlara123.netlify.app/)  
+01–01–2025 to 06–02–2026  
+Built a fully functional web project using modern technologies and best development practices.  
+
+> I have worked on several other projects as well.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Md Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true)  
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranmiatech&show_icons=true&theme=tokyonight&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranmiatech&theme=tokyonight&layout=compact)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranmiatech&theme=tokyonight)  
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)  
-
----
-
-## 📂 Pinned Projects
-
-### [Project 1](https://github.com/YOUR_GITHUB_USERNAME/project1)  
-✨ Built with React, Redux Toolkit & Tailwind CSS.  
-
-### [Project 2](https://github.com/YOUR_GITHUB_USERNAME/project2)  
-⚡ Full-stack dashboard with Node.js, Express, MongoDB & PostgreSQL.  
-
-### [Project 3](https://github.com/YOUR_GITHUB_USERNAME/project3)  
-🌐 Real-time WebSocket app with React & Node.js backend.  
-
-### [Project 4](https://github.com/YOUR_GITHUB_USERNAME/project4)  
-🚀 API testing & backend services using Postman & Prisma ORM.  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=imranmiatech.imranmiatech)  
 
 ---
 
 ## 🌍 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imranmiatech)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranmiatech/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranmiatech@gmall.com)  
 
 ---
 
 ## 💡 Developer Philosophy
 
-> "Clean Code. Scalable Architecture. Continuous Learning."
-
----
-
-## 🏆 Highlights
-
-- Built **full-stack dashboards** with React, Redux & Tailwind CSS  
-- Experienced in **backend APIs** using Node.js, Express & databases  
-- Strong grasp of **real-time applications & WebSocket**  
-- Skilled in **Postman testing, Prisma ORM & Git workflow**  
-
----
+> "Clean Code. Scalable Architecture. Continuous Learning."  
 
 🔥 Always learning. Always building. Always improving.  
-
----
-
-✅ **Replace placeholders:**  
-- `YOUR_GITHUB_USERNAME`  
-- `YOUR_LINKEDIN`  
-- `your@email.com`  
-- `project1…project4` with your real repos  
 
