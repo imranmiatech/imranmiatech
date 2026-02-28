@@ -1,7 +1,6 @@
-# 🚀 MD. IMRAN MIA
+# 👋 Hi, I’m MD. IMRAN MIA
 
-💻 Full Stack & Frontend Developer | ⚛️ React & Redux Toolkit | 🗄️ MongoDB & PostgreSQL  
-
+💻 **Software Engineer | Full Stack Developer**  
 📍 Bonani-13, Gulshan, Dhaka-1212  
 📞 +880-01943747529 | 📧 imranmiatech@gmall.com  
 🌐 [Portfolio](#) | [GitHub](https://github.com/imranmiatech) | [LinkedIn](https://www.linkedin.com/in/imranmiatech/)  
@@ -9,77 +8,61 @@
 ---
 
 ## 🎯 Objective
-
-Enthusiastic web developer dedicated to learning and applying modern web development technologies to deliver high-quality solutions.
+Enthusiastic software engineer dedicated to building high-quality web applications using modern web technologies, focusing on scalability, performance, and clean code practices.
 
 ---
 
 ## 🎓 Education
+**B.Sc. in CSE (Final Semester Ongoing)**  
+Institute of Science Trade and Technology (ISTT) affiliated with NU | GPA: 3.4/4.0  
 
-**Institute of Science Trade and Technology (ISTT) affiliated to NU**  
-B.Sc. IN CSE (Final Semester Ongoing) | GPA: 3.4/4.0  
-Currently pursuing B.Sc. with a focus on software and web development.
+- Focus on software and web development.  
+- Strong foundation in programming, algorithms, and database management.  
 
 ---
 
 ## 💼 Work Experience
 
-**Frontend Developer**  
-**Softvence IT Ltd** | 17/05/2025 – Present  
+**Frontend Developer – Softvence IT Ltd** | 17/05/2025 – Present  
 Modana Tower, Mohakali, Dhaka  
 
-- Worked with Softvence, gaining hands-on experience in web development and real-world project collaboration.
+- Developed modern web applications using React.js, Redux Toolkit, and Tailwind CSS.  
+- Collaborated in a team environment for real-world projects.  
+- Gained experience in Git workflow, project management, and client-based deliverables.  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### Programming Languages
-- JavaScript, TypeScript, Python (Basics)  
-
-### Web Development
-- React.js, Next.js, Redux Toolkit  
-- Framer Motion, GSAP (basic)  
-- Node.js, Express.js  
-- MongoDB, PostgreSQL, Prisma  
-
-### Database Management
-- MongoDB, SQL, MySQL  
-
-### Other Skills
-- Problem-Solving and Analytical Skills  
-- Strong Communication and Collaboration Abilities  
-- Ability to Learn and Adapt Quickly  
-
----
-
-## 🧰 Other Technologies
-- Linux  
-- Docker (Basics)  
-- Git & GitHub  
-- AWS (Basics)  
+**Programming Languages:** JavaScript, TypeScript, Python (Basics)  
+**Frontend:** React.js, Next.js, Redux Toolkit, Framer Motion, GSAP (basic)  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, PostgreSQL, MySQL, Prisma ORM  
+**Other Tools & Technologies:** Git, GitHub, Docker (Basics), Linux, AWS (Basics), Postman  
 
 ---
 
 ## 📂 Projects
 
-### [Krisikunjo (E-commerce)](https://krisikunjo.shop)  
-01–09–2025 to 07–02–2026  
-Built a fully functional online store with modern web technologies and user-friendly interface.  
+### [Krisikunjo – E-commerce](https://krisikunjo.shop)  
+*01–09–2025 to 07–02–2026*  
+- Built a fully functional online store with React, Redux Toolkit, and Tailwind CSS.  
+- Focused on a user-friendly interface and modern web standards.  
 
-### [Klawlara (Multivendor Furniture E-commerce)](https://klwlara123.netlify.app/)  
-01–01–2025 to 06–02–2026  
-Built a fully functional web project using modern technologies and best development practices.  
+### [Klawlara – Multivendor Furniture E-commerce](https://klwlara123.netlify.app/)  
+*01–01–2025 to 06–02–2026*  
+- Developed a full-stack application using React, Node.js, Express, and PostgreSQL.  
+- Implemented best development practices and modern UX/UI design.  
 
-> I have worked on several other projects as well.
+> Other personal and collaborative projects available on my [GitHub](https://github.com/imranmiatech).  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranmiatech&show_icons=true&theme=tokyonight&count_private=true)  
+![Md Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranmiatech&show_icons=true&theme=tokyonight&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranmiatech&theme=tokyonight&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranmiatech&theme=tokyonight&layout=compact)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranmiatech&theme=tokyonight)  
 
@@ -97,7 +80,12 @@ Built a fully functional web project using modern technologies and best developm
 
 ## 💡 Developer Philosophy
 
-> "Clean Code. Scalable Architecture. Continuous Learning."  
+> "Write clean code. Build scalable applications. Keep learning and improving."
 
-🔥 Always learning. Always building. Always improving.  
+---
 
+🔥 I’m passionate about:  
+- Building **real-world, production-ready applications**  
+- Solving complex problems with **efficient algorithms and clean architecture**  
+- Exploring **modern web technologies and frameworks**  
+- Collaborating in **team-based projects and open-source contributions**
