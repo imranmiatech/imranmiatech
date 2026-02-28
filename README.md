@@ -60,13 +60,13 @@ Modana Tower, Mohakali, Dhaka
 
 ## 📊 GitHub Stats
 
-![Md Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranmiatech&show_icons=true&theme=tokyonight&count_private=true)  
+![Md Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranmiatech&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranmiatech&theme=tokyonight&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranmiatech&theme=tokyonight&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranmiatech&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranmiatech&theme=tokyonight)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=imranmiatech.imranmiatech)  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=imranmiatech.imranmiatech)
 
 ---
 
