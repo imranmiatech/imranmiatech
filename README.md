@@ -7,9 +7,9 @@
 
 ---
 
-# 👋 Hello, I'm Tirtho
+# 👋 Hello, I'm Imran
 
-Hi 👋 I'm Tirtho Ray, a passionate Full Stack Developer who loves building clean, scalable, and efficient web applications.
+Hi 👋 I'm Imran, a passionate Full Stack Developer who loves building clean, scalable, and efficient web applications.
 
 I focus on modern architecture, performance, and scalable backend systems.
 
@@ -53,8 +53,8 @@ My focus areas:
 
 - MERN Stack
 - PERN Stack
+- Frontend
 - Backend API Architecture
-- DevOps & Cloud Systems
 
 I enjoy solving real-world engineering problems and building applications that scale.
 
@@ -78,9 +78,9 @@ I enjoy solving real-world engineering problems and building applications that s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tirtho-Ray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imranmiatech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirtho-Ray&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranmiatech&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -89,14 +89,26 @@ I enjoy solving real-world engineering problems and building applications that s
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tirtho-Ray&theme=tokyonight&row=2&column=3"/>
+<img src="https://github-profile-trophy.vercel.app/?username=imranmiatech&theme=tokyonight&row=2&column=3"/>
 </p>
 
 ---
 
 # 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirtho-Ray&theme=tokyo-night&area=true&hide_border=true"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imranmiatech&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=imranmiatech&style=for-the-badge)
+
+</div>
 
 ---
 
