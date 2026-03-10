@@ -102,16 +102,6 @@ I enjoy solving real-world engineering problems and building applications that s
 
 ---
 
-# 👀 Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=imranmiatech&style=for-the-badge)
-
-</div>
-
----
-
 # 🚀 Developer Philosophy
 
 > Code is poetry, and architecture is the story behind it.
