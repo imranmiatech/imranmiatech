@@ -1,91 +1,122 @@
-# 👋 Hi, I’m MD. IMRAN MIA
+# 👨‍💻 Imran | Full Stack Developer
+### 🚀 Building scalable systems and real-world products
 
-💻 **Software Engineer | Full Stack Developer**  
-📍 Bonani-13, Gulshan, Dhaka-1212  
-📞 +880-01943747529 | 📧 imranmiatech@gmall.com  
-🌐 [Portfolio](#) | [GitHub](https://github.com/imranmiatech) | [LinkedIn](https://www.linkedin.com/in/imranmiatech/)  
-
----
-
-## 🎯 Objective
-Enthusiastic software engineer dedicated to building high-quality web applications using modern web technologies, focusing on scalability, performance, and clean code practices.
+<div align="center">
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
 
 ---
 
-## 🎓 Education
-**B.Sc. in CSE (Final Semester Ongoing)**  
-Institute of Science Trade and Technology (ISTT) affiliated with NU | GPA: 3.4/4.0  
+# 👋 Hello, I'm Tirtho
 
-- Focus on software and web development.  
-- Strong foundation in programming, algorithms, and database management.  
+Hi 👋 I'm Tirtho Ray, a passionate Full Stack Developer who loves building clean, scalable, and efficient web applications.
 
----
+I focus on modern architecture, performance, and scalable backend systems.
 
-## 💼 Work Experience
+🎯 My goal is simple:
 
-**Frontend Developer – Softvence IT Ltd** | 17/05/2025 – Present  
-Modana Tower, Mohakali, Dhaka  
-
-- Developed modern web applications using React.js, Redux Toolkit, and Tailwind CSS.  
-- Collaborated in a team environment for real-world projects.  
-- Gained experience in Git workflow, project management, and client-based deliverables.  
+> Become a Top 1% Software Engineer by continuously learning, building, and sharing knowledge.
 
 ---
 
-## 🛠️ Technical Skills
+# 🎯 Current Focus
 
-**Programming Languages:** JavaScript, TypeScript, Python (Basics)  
-**Frontend:** React.js, Next.js, Redux Toolkit, Framer Motion, GSAP (basic)  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, PostgreSQL, MySQL, Prisma ORM  
-**Other Tools & Technologies:** Git, GitHub, Docker (Basics), Linux, AWS (Basics), Postman  
+🔭 Working on:  
+Follow Me  
+A next-generation influencer platform where users can buy and sell followers, likes, and engagement.
 
----
+🌍 Building:  
+Bangladesh Education Result Platform
 
-## 📂 Projects
+Features:
 
-### [Krisikunjo – E-commerce](https://krisikunjo.shop)  
-*01–09–2025 to 07–02–2026*  
-- Built a fully functional online store with React, Redux Toolkit, and Tailwind CSS.  
-- Focused on a user-friendly interface and modern web standards.  
+- Schools can publish results anytime
+- Students can check results using School + Roll Number
+- Digital result management system for schools
+- Fast and scalable result search
 
-### [Klawlara – Multivendor Furniture E-commerce](https://klwlara123.netlify.app/)  
-*01–01–2025 to 06–02–2026*  
-- Developed a full-stack application using React, Node.js, Express, and PostgreSQL.  
-- Implemented best development practices and modern UX/UI design.  
+🌱 Currently learning:
 
-> Other personal and collaborative projects available on my [GitHub](https://github.com/imranmiatech).  
-
----
-
-## 📊 GitHub Stats
-
-![Md Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranmiatech&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranmiatech&theme=tokyonight&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranmiatech&theme=tokyonight)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=imranmiatech.imranmiatech)
+- Docker
+- CI/CD pipelines
+- Kubernetes
+- Cloud deployment
+- Scalable backend architecture
 
 ---
 
-## 🌍 Connect With Me
+# 💡 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imranmiatech)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranmiatech/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranmiatech@gmall.com)  
+I specialize in Full Stack Development using modern technologies.
+
+My focus areas:
+
+- MERN Stack
+- PERN Stack
+- Backend API Architecture
+- DevOps & Cloud Systems
+
+I enjoy solving real-world engineering problems and building applications that scale.
 
 ---
 
-## 💡 Developer Philosophy
+# 🛠 Technology Arsenal
+---
+### 🛠 Tech Stack
 
-> "Write clean code. Build scalable applications. Keep learning and improving."
+| Category | Tools & Technologies |
+| :--- | :--- |
+| Languages | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| Frontend | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| Backend | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
+| Databases | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
+| DevOps | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) |
 
 ---
 
-🔥 I’m passionate about:  
-- Building **real-world, production-ready applications**  
-- Solving complex problems with **efficient algorithms and clean architecture**  
-- Exploring **modern web technologies and frameworks**  
-- Collaborating in **team-based projects and open-source contributions**
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tirtho-Ray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirtho-Ray&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Tirtho-Ray&theme=tokyonight&row=2&column=3"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirtho-Ray&theme=tokyo-night&area=true&hide_border=true"/>
+
+---
+
+# 🚀 Developer Philosophy
+
+> Code is poetry, and architecture is the story behind it.
+
+I believe great software comes from:
+
+- Continuous learning
+- Clean architecture
+- Solving real problems
+- Building scalable systems
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tirtho-Ray&style=for-the-badge)
+
+⭐️ If you like my projects, consider giving them a star
+
+</div>
